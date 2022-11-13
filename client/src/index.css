@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+html {
+  font-family: sans-serif;
+  
+}
+body{
+    background-image: url("https://img.freepik.com/free-photo/blockchain-technology-background-gradient-blue_53876-124648.jpg?w=996&t=st=1667806168~exp=1667806768~hmac=4436f811667d54d4ce4ddd23d9a04c7f2d537d3d0e69b47c33d55e7286371856"); 
+  background-repeat: no-repeat;
+background-size: cover;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
